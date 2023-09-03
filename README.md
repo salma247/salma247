@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salma Ahmed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salma
 ===================================================================================================================================
 
 Front-end Web Developer
 -----------------------
 
-I'm a student in CS major, focusing on front-end technologies and tooling, I also love cookies 🍪
+I'm a CS graduate, focusing on front-end technologies, I also love cookies and cats 🍪😺
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [salmaelhamshary1@gmail.com](mailto:salmaelhamshary1@gmail.com)
